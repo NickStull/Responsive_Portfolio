@@ -18,9 +18,9 @@ body nav .navbar-brand {
     color: white;
 }
 
-.navbar-nav {
+/* .navbar-nav {
     margin-left: auto;
-}
+} */
 
 .abt-container {
     margin-top: 75px;
@@ -35,10 +35,10 @@ main h1 {
     font-size: 46px;
 }
 
-.aboutImg {
+/* .aboutImg {
     float: left;
     margin-right: 10px;
-}
+} */
 
 .footer {
     position: absolute;
